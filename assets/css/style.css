@@ -76,4 +76,43 @@ nav{
 }
 
 
+#selling-point-one{
+    background-color: chocolate;
+    height:75px;
+    color:white;
+   
+}
+
+#selling-point-one h3 {
+    padding: 25px 0;
+    text-align:center;
+}
+
+#selling-point-two li {
+    background-color:chocolate;
+    height:75px;
+    width:50%;
+    display:inline;
+    
+}
+
+#selling-point-two h3 {
+    color:white;
+}
+
+
+
+#selling-point-four{
+    background-color: chocolate;
+    height:75px;
+    color:white;
+    
+   
+}
+
+#selling-point-four h3 {
+    padding: 25px 0;
+    text-align: center;
+}
+
 

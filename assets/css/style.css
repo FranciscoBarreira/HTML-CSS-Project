@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    border: none;
+}
+
+
+
+#menu li {
+    display:inline-block;
+    width:30%;
+    font-size:300%;
+}
+
+#logo {
+    color:brown;
+}

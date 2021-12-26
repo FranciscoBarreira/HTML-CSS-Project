@@ -59,3 +59,8 @@ header a {
 
 }
 
+#one-winner-image {
+    background: url('../images/one-winner.jpg') no-repeat center center;
+    height: 300px;
+    background-size: cover;
+}

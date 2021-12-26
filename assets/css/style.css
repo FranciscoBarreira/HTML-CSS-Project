@@ -1,17 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Titillium+Web:wght@300&display=swap');
+
 *{
     margin:0;
     padding:0;
     border: none;
 }
 
+body {
+    font-family: Lato, "sans-serif";
+    font-weight: 300;
+    color: #3f3d3d;
+}
 
 
-#menu li {
-    display:inline-block;
-    width:30%;
-    font-size:300%;
+h1, h2 {
+    font-family: 'Titillium Web', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #292929;
+
 }
 
 #logo {
-    color:brown;
+    text-align:center;
+    font-size: 300%;
 }
+
+header a {
+    text-decoration:none;
+}
+#menu li {
+    display:inline-block;
+    width:33%;
+    background-color: chocolate;
+    height:75px;
+    line-height:75px;
+    text-align:center;
+    border:1px solid white;
+    box-sizing: border-box;
+    border-radius:5px;
+   
+}
+
+#menu a {
+    text-decoration: none;
+    color:white;
+    font-size: 110%;
+
+}
+

@@ -24,10 +24,20 @@ h1, h2 {
 #logo {
     text-align:center;
     font-size: 300%;
+    color:white;
 }
 
+header {
+    background: url('../images/logo_background.jpg') no-repeat center center;
+    height: 150px;
+   
+}
 header a {
     text-decoration:none;
+    
+    text-align: center;
+    line-height:150px;
+
 }
 #menu li {
     display:inline-block;

@@ -39,6 +39,9 @@ header a {
     line-height:150px;
 
 }
+nav{
+    background-color: chocolate;
+}
 #menu li {
     display:inline-block;
     width:33%;
@@ -46,9 +49,6 @@ header a {
     height:75px;
     line-height:75px;
     text-align:center;
-    border:1px solid white;
-    box-sizing: border-box;
-    border-radius:5px;
    
 }
 

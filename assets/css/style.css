@@ -84,25 +84,50 @@ nav{
 }
 
 #the-arena-statement h3 {
-    padding: 25px 0;
+    padding: 15px 0;
     text-align:center;
     color:white;
+    overflow: hidden;
+    text-align: center;
 }
 
 .selling-points-left {
-    font-size: 50%;
-    height:200px;
-    width:150px;
-    left: 50px;
-    background-color: darkblue;
+    font-size: 90%;
+    height:250px;
+    width:250px;
+    margin-left:100px;
+    background-color: rgba(102, 101, 101, 0.212);
+    border-radius:5px;
+   
     
+    color: white;
 
 
 }
 
+.selling-points-left h2 {
+    color:white;
+    text-decoration: underline;
+}
+
+.selling-points-left h3 {
+    color:white;
+    font-size: 110%;
+}
+
+#selling-points {
+    background: url('../images/logo_background.jpg') no-repeat center center;
+    height:1000px;
+}
 
 
+.center-images{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-
-
-
+.selling-points-left i {
+    font-size: 400%;
+    margin-left: 100px;
+}

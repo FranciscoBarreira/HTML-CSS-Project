@@ -155,3 +155,37 @@ nav{
     font-size: 400%;
     margin-left: 100px;
 }
+
+footer{
+    background-color: chocolate;
+}
+
+#footer-socials-one li {
+    display:inline-block;
+    width:33%;
+    background-color: chocolate;
+    height:37px;
+    line-height:37px;
+    text-align:center;
+}
+
+#footer-socials-one a {
+    text-decoration: none;
+    color:white;
+    font-size: 110%;
+}
+
+#footer-socials-two li {
+    display:inline-block;
+    width:33%;
+    background-color: chocolate;
+    height:37px;
+    line-height:37px;
+    text-align:center; 
+}
+
+#footer-socials-two a {
+    text-decoration: none;
+    color:white;
+    font-size: 110%;
+}

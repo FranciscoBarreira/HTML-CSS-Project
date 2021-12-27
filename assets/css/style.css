@@ -189,3 +189,21 @@ footer{
     color:white;
     font-size: 110%;
 }
+
+#how-to-play-statement {
+    background-color: chocolate;
+    height:75px;
+}
+
+#how-to-play-statement h3 {
+    padding: 15px 0;
+    text-align:center;
+    color:white;
+    overflow: hidden;
+    text-align: center; 
+}
+
+#instructions {
+    background: url('../images/logo_background.jpg') no-repeat center center;
+    height:1000px;
+}

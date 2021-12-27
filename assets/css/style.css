@@ -95,7 +95,7 @@ nav{
     font-size: 90%;
     height:250px;
     width:250px;
-    margin-left:100px;
+    margin-left:150px;
     background-color: rgba(102, 101, 101, 0.212);
     border-radius:5px;
    
@@ -113,6 +113,7 @@ nav{
 .selling-points-left h3 {
     color:white;
     font-size: 110%;
+    text-align: justify;
 }
 
 #selling-points {
@@ -120,14 +121,37 @@ nav{
     height:1000px;
 }
 
-
-.center-images{
+.selling-points-left i {
+    font-size: 400%;
+    margin-left: 100px;
+}
+.selling-points-right {
+    font-size: 90%;
+    height:250px;
+    width:250px;
+    
+    background-color: rgba(102, 101, 101, 0.212);
+    border-radius:5px;
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 150px;
+   
+    
+    color: white;
 }
 
-.selling-points-left i {
+.selling-points-right h2{
+    color:white;
+    text-decoration: underline;
+}
+
+.selling-points-right h3 {
+    color:white;
+    font-size: 110%;
+    text-align: justify;
+}
+
+.selling-points-right i {
     font-size: 400%;
     margin-left: 100px;
 }

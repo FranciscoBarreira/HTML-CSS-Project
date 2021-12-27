@@ -76,43 +76,33 @@ nav{
 }
 
 
-#selling-point-one{
+#the-arena-statement{
     background-color: chocolate;
     height:75px;
-    color:white;
+    
    
 }
 
-#selling-point-one h3 {
+#the-arena-statement h3 {
     padding: 25px 0;
     text-align:center;
-}
-
-#selling-point-two li {
-    background-color:chocolate;
-    height:75px;
-    width:50%;
-    display:inline;
-    
-}
-
-#selling-point-two h3 {
     color:white;
 }
 
-
-
-#selling-point-four{
-    background-color: chocolate;
-    height:75px;
-    color:white;
+.selling-points-left {
+    font-size: 50%;
+    height:200px;
+    width:150px;
+    left: 50px;
+    background-color: darkblue;
     
-   
+
+
 }
 
-#selling-point-four h3 {
-    padding: 25px 0;
-    text-align: center;
-}
+
+
+
+
 
 

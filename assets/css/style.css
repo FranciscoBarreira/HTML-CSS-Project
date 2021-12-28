@@ -207,3 +207,23 @@ footer{
     background: url('../images/logo_background.jpg') no-repeat center center;
     height:1000px;
 }
+
+#signup-statement {
+    background-color: chocolate;
+    height:75px;
+    
+}
+
+#signup-statement h3 {
+    padding: 25px 0;
+    text-align:center;
+    color:white;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+#signup-form {
+    background: url('../images/logo_background.jpg') no-repeat center center;
+    height:1000px;
+}

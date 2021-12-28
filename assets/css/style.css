@@ -253,3 +253,27 @@ footer{
     color:white;
     margin: 15px 0 15px 0;
 }
+
+.active{
+    border-bottom: 1px inset white;
+}
+
+#menu a:hover {
+    border-bottom: 1px inset white;
+    
+}
+
+.time-to-play:hover {
+    background-color: white;
+    color:chocolate;
+    border: 2px inset chocolate;
+}
+
+#victory-image a {
+    text-decoration:none;
+    color:white;
+}
+
+#victory-image a:hover {
+    border-bottom: 1px inset white;
+}

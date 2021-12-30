@@ -284,6 +284,14 @@ footer{
     
 } 
 
+@media screen and (max-width: 730px) {
+    #the-arena-statement {
+        background-color: chocolate;
+        height:110px;}
+
+    
+} 
+
 @media screen and (max-width: 640px) {
     #the-arena-statement {
         background-color: chocolate;
@@ -325,13 +333,25 @@ footer{
         
     }
 
-    #selling-points-right{
+    .selling-points-left {
         font-size: 90%;
         height:250px;
         width:250px;
         background-color: rgba(102, 101, 101, 0.212);
         border-radius:5px;
         color: white;
+        margin-left: 50px;
+    }
+     
+
+    .selling-points-right {
+        font-size: 90%;
+        height:250px;
+        width:250px;
+        background-color: rgba(102, 101, 101, 0.212);
+        border-radius:5px;
+        color: white;
+        margin-left: 50px;
     }
      
 
@@ -398,7 +418,41 @@ footer{
         text-align: center;
     
     }
+
+
     
 
 
 }   
+
+@media screen and (max-width: 475px) {
+    #the-arena-statement {
+        background-color: chocolate;
+        height:130px;}
+    
+    #how-to-play-statement {
+        background-color: chocolate;
+        height:130px;}
+    
+    
+    
+} 
+
+@media screen and (max-width: 390px) {
+    #the-arena-statement {
+        background-color: chocolate;
+        height:150px;}
+
+     #how-to-play-statement {
+        background-color: chocolate;
+        height:150px;}
+    
+    #signup-statement {
+        background-color: chocolate;
+        height:100px;}
+
+
+    
+
+    
+} 

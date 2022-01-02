@@ -1,42 +1,62 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome FranciscoBarreira,
-
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
-
-## Gitpod Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## The Arena
 
 ------
 
-## Release History
+The Arena is a first person shooter battle royale type videogame that has 100 players fighting each other for victory. This website is meant to be a support for the game, with information and features that aim to convince both casual and hardcore gamers to try it out. It displays the game's main features and instructions on how to play, as well as a sign up page.
+
+
+## Features
+
+------
+
+-Logo
+  
+The top of the page includes the logo for The Arena that is present in all of the pages. This is meant to work as a constant reminder of the name of the game for those who are yet unfamiliar with it.
+
+-Navigation Menu 
+
+The navigation menu consists of links to all of the website's pages. It is a feature in every single one of them, to make navigation easy and intuitive, thus promoting a good user experience.
+
+-Page Image
+
+This image takes center stage in all the pages to entice potential players, while making the website maintain a clean look. It speaks of the type of game The Arena is, and contains the motto for the game, "100 players walk in. Only one walks out." There's also a call to action in the form of a pre-order message that links to the sign up page.
+
+-Statement Section
+
+This section is a short one. It contains text that supports the image above, briefly explaining what the genre of the game is. It also immediately states that the gameplay in The Arena differs form other battle royale games, as a way to grab the attention of potential players.
+
+-Selling Points Section
+
+The selling points section contains more detailed information about the main features of The Arena. It is comprised of short blocks of text spread out across the page. The main objective is to give potential players a better picture of what the game is. 
+
+-Footer
+
+This is where users can find all the social media links, as well as The Arena's official Twitch channel and email, which will be the primary form of customer support. 
+
+-How to Play page
+
+For players who are not very familiar with the Battle Royale genre, the how to play page provides a list of steps to make sense of how the game works. Stylewise, It is very identical to the home page to keep the branding consistant. The only differences are in the short message in the statement section and the main text. 
+
+-Sign Up Page
+
+For potential players who want to play the game, or just receive updates about it via email. Apart from all the usual fields such as username and password, there is also a dropdown list that gives users three options to sign up. 
+
+## Testing
+
+------
+
+**Validator Testing**
+
+HTML-No errors were shown when put through the validator.w3.org/ test.
+
+CSS- No errors were shown when put through the jigsaw.w3.org validator test.
+
+
+
+
+
 
 We continually tweak and adjust this template to help give you the best experience. Here is the version history:
 

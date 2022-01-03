@@ -76,14 +76,14 @@ nav{
 }
 
 
-#the-arena-statement{
+.header-statement{
     background-color: chocolate;
     height:75px;
     
    
 }
 
-#the-arena-statement h3 {
+.header-statement h3 {
     padding: 15px 0;
     text-align:center;
     color:white;
@@ -188,38 +188,16 @@ footer{
     font-size: 110%;
 }
 
-#how-to-play-statement {
-    background-color: chocolate;
-    height:75px;
-}
 
-#how-to-play-statement h3 {
-    padding: 15px 0;
-    text-align:center;
-    color:white;
-    overflow: hidden;
-    text-align: center; 
-}
+
 
 #instructions {
     background: url('../images/logo_background.jpg') no-repeat center center;
     height:1000px;
 }
 
-#signup-statement {
-    background-color: chocolate;
-    height:75px;
-    
-}
 
-#signup-statement h3 {
-    padding: 25px 0;
-    text-align:center;
-    color:white;
-    overflow: hidden;
-    text-align: center;
 
-}
 
 #signup-form {
     background: url('../images/logo_background.jpg') no-repeat center center;
@@ -277,7 +255,7 @@ footer{
 }
 
 @media screen and (max-width: 1000px) {
-    #the-arena-statement {
+    .header-statement {
         background-color: chocolate;
         height:100px;}
 
@@ -285,7 +263,7 @@ footer{
 } 
 
 @media screen and (max-width: 730px) {
-    #the-arena-statement {
+    .header-statement {
         background-color: chocolate;
         height:110px;}
 
@@ -293,17 +271,14 @@ footer{
 } 
 
 @media screen and (max-width: 640px) {
-    #the-arena-statement {
+   
+
+    .header-statement {
         background-color: chocolate;
         height:120px;
     }
 
-    #how-to-play-statement {
-        background-color: chocolate;
-        height:120px;
-    }
-
-    #how-to-play-statement h3 {
+    .header-statement h3 {
         padding: 25px 0;
         text-align:center;
         color:white;
@@ -410,14 +385,8 @@ footer{
         margin: 15px 0 15px 0;
     }
 
-    #signup-statement h3 {
-        padding: 15px 0;
-        text-align:center;
-        color:white;
-        overflow: hidden;
-        text-align: center;
     
-    }
+    
 
 
     
@@ -426,30 +395,19 @@ footer{
 }   
 
 @media screen and (max-width: 475px) {
-    #the-arena-statement {
+    .header-statement {
         background-color: chocolate;
-        height:130px;}
-    
-    #how-to-play-statement {
-        background-color: chocolate;
-        height:130px;}
-    
+        height:150px;}
     
     
 } 
 
 @media screen and (max-width: 390px) {
-    #the-arena-statement {
+    .header-statement {
         background-color: chocolate;
         height:150px;}
 
-     #how-to-play-statement {
-        background-color: chocolate;
-        height:150px;}
     
-    #signup-statement {
-        background-color: chocolate;
-        height:100px;}
 
 
     

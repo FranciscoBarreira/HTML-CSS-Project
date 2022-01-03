@@ -95,24 +95,27 @@ nav{
     text-align: center;
 }
 
-.selling-points-left {
-    font-size: 90%;
+.selling-points-card {
+    font-size: 1rem;
     height:250px;
     width:250px;
-    margin: 20px auto 20px 150px;
     background-color: rgba(102, 101, 101, 0.212);
     border-radius:5px;
     padding: 20px;
     color: white;
 }
 
-.selling-points-left h2 {
+.selling-points-left {
+    margin: 20px auto 20px 150px;
+}
+
+.selling-points-card h2 {
     color:white;
     text-decoration: underline;
     text-align: center;
 }
 
-.selling-points-left h3 {
+.selling-points-card h3 {
     color:white;
     font-size: 110%;
     text-align: justify;
@@ -123,38 +126,15 @@ nav{
     
 }
 
-.selling-points-left i {
-    font-size: 400%;
+.selling-points-card i {
+    font-size: 2rem;
     margin-left: 100px;
 }
 .selling-points-right {
-    font-size: 90%;
-    height:250px;
-    width:250px;
     margin: 20px 150px 20px auto;
-    background-color: rgba(102, 101, 101, 0.212);
-    border-radius:5px;
     display: block;
-    padding: 20px;
-    color: white;
 }
 
-.selling-points-right h2{
-    color:white;
-    text-decoration: underline;
-    text-align: center;
-}
-
-.selling-points-right h3 {
-    color:white;
-    font-size: 110%;
-    text-align: justify;
-}
-
-.selling-points-right i {
-    font-size: 400%;
-    margin-left: 100px;
-}
 
 footer{
     background-color: chocolate;

@@ -99,19 +99,17 @@ nav{
     font-size: 90%;
     height:250px;
     width:250px;
-    margin-left:150px;
+    margin: 20px auto 20px 150px;
     background-color: rgba(102, 101, 101, 0.212);
     border-radius:5px;
-   
-    
+    padding: 20px;
     color: white;
-
-
 }
 
 .selling-points-left h2 {
     color:white;
     text-decoration: underline;
+    text-align: center;
 }
 
 .selling-points-left h3 {
@@ -122,7 +120,7 @@ nav{
 
 #selling-points {
     background: url('../images/logo_background.jpg') no-repeat center center;
-    height:1000px;
+    
 }
 
 .selling-points-left i {
@@ -133,18 +131,18 @@ nav{
     font-size: 90%;
     height:250px;
     width:250px;
-    
+    margin: 20px 150px 20px auto;
     background-color: rgba(102, 101, 101, 0.212);
     border-radius:5px;
     display: block;
-    margin-left: auto;
-    margin-right: 150px;
+    padding: 20px;
     color: white;
 }
 
 .selling-points-right h2{
     color:white;
     text-decoration: underline;
+    text-align: center;
 }
 
 .selling-points-right h3 {
@@ -160,39 +158,24 @@ nav{
 
 footer{
     background-color: chocolate;
+    height: 75px;
+    text-align: center;
 }
 
-#footer-socials-one li {
+#footer-socials li {
     display:inline-block;
-    width:33%;
     background-color: chocolate;
-    height:37px;
-    line-height:37px;
-    text-align:center;
+    margin: 30px;
+   
+   
 }
 
-#footer-socials-one a {
+#footer-socials a {
     text-decoration: none;
     color:white;
     font-size: 110%;
+    
 }
-
-#footer-socials-two li {
-    display:inline-block;
-    width:33%;
-    background-color: chocolate;
-    height:37px;
-    line-height:37px;
-    text-align:center; 
-}
-
-#footer-socials-two a {
-    text-decoration: none;
-    color:white;
-    font-size: 110%;
-}
-
-
 
 
 #instructions {

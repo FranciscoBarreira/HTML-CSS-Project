@@ -160,9 +160,28 @@ footer{
 
 #instructions {
     background: url('../images/logo_background.jpg') no-repeat center center;
-    height:1000px;
+    
 }
 
+.instruction-points {
+    
+    padding: 20px;
+    height: 175px;
+    border: 1px solid chocolate;
+    
+}
+
+.instruction-points h2 {
+    color:white;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.instruction-points h3 {
+color:white;
+font-size: 1.2rem;
+text-align: justify;
+}
 
 
 

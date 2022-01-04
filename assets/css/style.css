@@ -146,8 +146,6 @@ footer{
     display:inline-block;
     background-color: chocolate;
     margin: 30px;
-   
-   
 }
 
 #footer-socials a {
@@ -327,20 +325,7 @@ footer li:hover {
         margin-left: 100px;
     }
 
-    #footer-socials li {
-        display:inline-block;
-        width:30%;
-        background-color: chocolate;
-        height:37px;
-        line-height:37px;
-        text-align:center;
-    }
-    
-    #footer-socials a {
-        text-decoration: none;
-        color:white;
-        font-size: 110%;
-    }
+  
     
 
     .form{
@@ -365,15 +350,24 @@ footer li:hover {
 @media screen and (max-width: 475px) {
     .header-statement {
         background-color: chocolate;
-        height:150px;}
+        height:150px;
+        text-align: center;
+        margin:auto;
+    }
     
     .instruction-points {
+        padding: 20px;
+        height: 200px;
+        border: 1px solid chocolate;
     
-    padding: 20px;
-    height: 200px;
-    border: 1px solid chocolate;
+    }
+
+    #footer-socials li {
+        display:inline-block;
+        background-color: chocolate;
+        margin: 20px;
+    }
     
-}
 } 
 
 @media screen and (max-width: 410px) {
@@ -398,6 +392,14 @@ footer li:hover {
     border: 1px solid chocolate;  
 }
 } 
+
+@media screen and (max-width:360px) {
+    #footer-socials li {
+        display:inline-block;
+        background-color: chocolate;
+        margin: 15px;
+    }
+}
 
 @media screen and (max-width: 335px) {
     #logo {

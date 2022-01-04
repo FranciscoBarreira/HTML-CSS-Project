@@ -327,7 +327,7 @@ footer li:hover {
         margin-left: 100px;
     }
 
-    #footer-socials-one li {
+    #footer-socials li {
         display:inline-block;
         width:30%;
         background-color: chocolate;
@@ -336,28 +336,12 @@ footer li:hover {
         text-align:center;
     }
     
-    #footer-socials-one a {
+    #footer-socials a {
         text-decoration: none;
         color:white;
         font-size: 110%;
     }
     
-    #footer-socials-two li {
-        display:inline-block;
-        width:30%;
-        background-color: chocolate;
-        height:37px;
-        line-height:37px;
-        text-align:center; 
-    }
-    
-    #footer-socials-two a {
-        text-decoration: none;
-        color:white;
-        font-size: 100%;
-    }
-
-
 
     .form{
         margin: 50px 0 0 0;
@@ -376,13 +360,6 @@ footer li:hover {
         margin: 15px 0 15px 0;
     }
 
-    
-    
-
-
-    
-
-
 }   
 
 @media screen and (max-width: 475px) {
@@ -390,18 +367,49 @@ footer li:hover {
         background-color: chocolate;
         height:150px;}
     
+    .instruction-points {
     
+    padding: 20px;
+    height: 200px;
+    border: 1px solid chocolate;
+    
+}
+} 
+
+@media screen and (max-width: 410px) {
+    .instruction-points {
+    padding: 20px;
+    height: 260px;
+    border: 1px solid chocolate;  
+}
 } 
 
 @media screen and (max-width: 390px) {
     .header-statement {
         background-color: chocolate;
-        height:150px;}
-
-    
-
-
-    
-
+        height:170px;}
     
 } 
+
+@media screen and (max-width: 370px) {
+    .instruction-points {
+    padding: 20px;
+    height: 275px;
+    border: 1px solid chocolate;  
+}
+} 
+
+@media screen and (max-width: 335px) {
+    #logo {
+        text-align:center;
+        font-size: 100%;
+        color:white;
+    }
+    .instruction-points {
+        padding: 20px;
+        height: 310px;
+        border: 1px solid chocolate;  
+    }
+} 
+
+

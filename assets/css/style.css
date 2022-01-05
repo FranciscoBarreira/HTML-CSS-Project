@@ -77,6 +77,7 @@ nav{
     padding: 10px;
     border-radius: 5px;
     margin-top: 20px;
+    color: white;
 }
 
 
@@ -222,6 +223,11 @@ text-align: justify;
 #menu a:hover {
     border-bottom: 1px inset white;
     
+}
+
+#pre-order:hover{
+    border: 2px inset white;
+    text-decoration: underline;
 }
 
 .time-to-play:hover {

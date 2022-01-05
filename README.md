@@ -82,9 +82,13 @@ CSS- No errors were shown when put through the <a href="http://jigsaw.w3.org/css
 ------
 
 This site was deployed to GitHub pages. The steps to deploy it were:
+
 -In the GitHub repository, click on on settings 
+
 -Scroll down to Github pages
+
 -From the source section drop-down menu, select Main 
+
 -After all these steps are followed successfully the page will refresh and provide a link to the deployed website.
 
 
@@ -100,7 +104,9 @@ All the images used in the website were taken directly from Unsplash.com
 **Content**
 
 For this project, the following sources of information were used:
--W3schools.com
--Stackoverflow
+
+-W3schools.com 
+
+-Stackoverflow 
 
 

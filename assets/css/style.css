@@ -72,12 +72,18 @@ nav{
 }
 
 #pre-order{
-    font-size: 75%;
+    font-size: .6rem;
     background-color: chocolate;
     padding: 10px;
     border-radius: 5px;
     margin-top: 20px;
     color: white;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+   
+    
 }
 
 
@@ -104,10 +110,12 @@ nav{
     border-radius:5px;
     padding: 20px;
     color: white;
+    
 }
 
 .selling-points-left {
     margin: 20px auto 20px 150px;
+   
 }
 
 .selling-points-card h2 {

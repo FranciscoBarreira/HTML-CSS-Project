@@ -23,7 +23,7 @@ h1, h2 {
 
 #logo {
     text-align:center;
-    font-size: 300%;
+    font-size: 3rem;
     color:white;
 }
 
@@ -55,7 +55,7 @@ nav{
 #menu a {
     text-decoration: none;
     color:white;
-    font-size: 110%;
+    font-size: 1.1rem;
 
 }
 
@@ -104,7 +104,6 @@ nav{
 
 .selling-points-card {
     font-size: 1rem;
-    height:250px;
     width:250px;
     background-color: rgba(102, 101, 101, 0.212);
     border-radius:5px;
@@ -116,8 +115,6 @@ nav{
 
 .selling-points-left {
     margin: 20px auto 20px 150px;
-    
-   
 }
 
 .selling-points-card h2 {
@@ -127,7 +124,7 @@ nav{
 
 .selling-points-card h3 {
     color:white;
-    font-size: 110%;
+    font-size: 1.1rem;
     text-align: justify;
 }
 
@@ -163,7 +160,7 @@ footer{
 #footer-socials a {
     text-decoration: none;
     color:white;
-    font-size: 110%;
+    font-size: 1.1rem;
     
 }
 
@@ -291,14 +288,14 @@ footer li:hover {
 
     #logo {
         text-align:center;
-        font-size: 130%;
+        font-size: 1.3rem;
         color:white;
     }
 
     #menu a {
         text-decoration: none;
         color:white;
-        font-size: 100%;
+        font-size: 1rem;
     }
 
     #menu li {
@@ -312,7 +309,7 @@ footer li:hover {
     }
 
     .selling-points-left {
-        font-size: 90%;
+        font-size: .9rem;
         height:250px;
         width:250px;
         background-color: rgba(102, 101, 101, 0.212);
@@ -323,7 +320,7 @@ footer li:hover {
      
 
     .selling-points-right {
-        font-size: 90%;
+        font-size: .9rem;
         height:250px;
         width:250px;
         background-color: rgba(102, 101, 101, 0.212);
@@ -335,8 +332,10 @@ footer li:hover {
 
     
     .selling-points-right i {
-        font-size: 400%;
-        margin-left: 100px;
+        font-size: 3rem;
+        text-align: center;
+        width: 100%;
+        margin-top: 20px;
     }
 
   
@@ -369,13 +368,7 @@ footer li:hover {
         margin:auto;
     }
     
-    .instruction-points {
-        padding: 20px;
-        height: 200px;
-        border: 1px solid chocolate;
-    
-    }
-
+   
     #footer-socials li {
         display:inline-block;
         background-color: chocolate;
@@ -384,28 +377,37 @@ footer li:hover {
     
 } 
 
-@media screen and (max-width: 410px) {
-    .instruction-points {
-    padding: 20px;
-    height: 260px;
-    border: 1px solid chocolate;  
-}
-} 
+
+
 
 @media screen and (max-width: 390px) {
     .header-statement {
         background-color: chocolate;
         height:170px;}
-    
+
+    .selling-points-left {
+        font-size: .9rem;
+        width: 175px;
+        
+        background-color: rgba(102, 101, 101, 0.212);
+        border-radius:5px;
+        color: white;
+        margin-left: 50px;
+    }
+     
+
+    .selling-points-right {
+        font-size: .9rem;
+        width: 175px;
+        
+        background-color: rgba(102, 101, 101, 0.212);
+        border-radius:5px;
+        color: white;
+        margin-left: 50px;
+    }
 } 
 
-@media screen and (max-width: 370px) {
-    .instruction-points {
-    padding: 20px;
-    height: 275px;
-    border: 1px solid chocolate;  
-}
-} 
+
 
 @media screen and (max-width:360px) {
     #footer-socials li {
@@ -418,14 +420,10 @@ footer li:hover {
 @media screen and (max-width: 335px) {
     #logo {
         text-align:center;
-        font-size: 100%;
+        font-size: 1rem;
         color:white;
     }
-    .instruction-points {
-        padding: 20px;
-        height: 310px;
-        border: 1px solid chocolate;  
-    }
+   
 } 
 
 

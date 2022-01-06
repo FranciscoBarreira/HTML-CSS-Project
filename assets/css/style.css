@@ -72,7 +72,7 @@ nav{
 }
 
 #pre-order{
-    font-size: .6rem;
+    font-size: .9rem;
     background-color: chocolate;
     padding: 10px;
     border-radius: 5px;
@@ -111,16 +111,17 @@ nav{
     padding: 20px;
     color: white;
     
+    
 }
 
 .selling-points-left {
     margin: 20px auto 20px 150px;
+    
    
 }
 
 .selling-points-card h2 {
     color:white;
-    text-decoration: underline;
     text-align: center;
 }
 
@@ -132,7 +133,7 @@ nav{
 
 #selling-points {
     background: url('../images/logo_background.jpg') no-repeat center center;
-    
+    padding: 20px;
 }
 
 .selling-points-card i {

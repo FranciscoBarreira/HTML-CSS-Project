@@ -174,13 +174,8 @@ footer{
 }
 
 .instruction-points {
-    
-    padding: 20px;
-    height: 175px;
-    border: 1px solid chocolate;
     background-color: rgba(102, 101, 101, 0.212);
     margin: 20px;
-    
 }
 
 .instruction-points h2 {
@@ -201,14 +196,14 @@ text-align: justify;
     background: url('../images/logo_background.jpg') no-repeat center center;
     background-position: center;
     clear: both;
-    height: 650px;
+    padding: 20px;
 }
 
 .form{
-    margin: 50px 0 0 200px;
+    
     color: white;
-    max-width: 400px;
-    position: absolute;
+    max-width: 500px;
+    margin: auto;
     padding: 20px;
     background-color: rgba(102, 101, 101, 0.212);
     border-radius:5px;

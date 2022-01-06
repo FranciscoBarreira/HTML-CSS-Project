@@ -137,8 +137,10 @@ nav{
 }
 
 .selling-points-card i {
-    font-size: 2rem;
-    margin-left: 100px;
+    font-size: 3rem;
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
 }
 .selling-points-right {
     margin: 20px 150px 20px auto;
@@ -168,7 +170,7 @@ footer{
 
 #instructions {
     background: url('../images/logo_background.jpg') no-repeat center center;
-    
+    padding: 20px;
 }
 
 .instruction-points {
@@ -176,6 +178,8 @@ footer{
     padding: 20px;
     height: 175px;
     border: 1px solid chocolate;
+    background-color: rgba(102, 101, 101, 0.212);
+    margin: 20px;
     
 }
 

@@ -70,11 +70,19 @@ For potential players who want to play the game, or just receive updates about i
 
 ------
 
+Lighthouse was used to test Performance, Accessibility, Best Practices and SEO. The results were the following:
+
+![lighthouse test](/assets/images/lighthouse "lighthouse test")
+
+The colors and fonts are very easy to read all across the website.
+
 **Validator Testing**
 
 HTML-No errors were shown when put through the <a href="http://jigsaw.w3.org/css-validator/validator$link" target="_blank">validator.w3.org/ test. </a>
 
 CSS- No errors were shown when put through the <a href="http://jigsaw.w3.org/css-validator/validator$link" target="_blank">jigsaw.w3.org validator test. </a>
+
+
 
 
 ## Site Deployment
@@ -99,14 +107,16 @@ This site was deployed to GitHub pages. The steps to deploy it were:
 
 **Media**
 
-All the images used in the website were taken directly from Unsplash.com
+All the images used in the website were taken directly from Unsplash.com, including the one that is used as a background in the logo.
+
+All the icons were taken from "Font Awesome".
 
 **Content**
 
 For this project, the following sources of information were used:
 
--W3schools.com 
+-Stackoverflow for how to create an HTML button that acts like a link
 
--Stackoverflow 
+-The idea for the text overlay used in bot the home and how to play pages was taken from the Love Running walkthrough project.
 
 

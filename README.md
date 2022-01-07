@@ -23,7 +23,7 @@ The link to the Github repository can be found [here.](https://github.com/Franci
 [Design](#design)   
 
    - [Images](#images)
-   - [Colour Schemes](#colour-schemes)
+   - [Colour Scheme](#colour-scheme)
    - [Fonts](#fonts)
 
 [Features](#features)   
@@ -90,7 +90,7 @@ The link to the Github repository can be found [here.](https://github.com/Franci
 All the images resemble the the first person shooter genre, while respecting the colour scheme of the website. They were taken from unsplash.com
 
 ### Colour Scheme 
-<a name="colours-cheme"></a>
+<a name="colour-scheme"></a>
 
 Apart from background images, the main colours used were chocolate rgb(210,105,30), white rgb(255,255,255) and grey rgb(102,101,101). The chocolate was mostly used as a background color to contrast the white text and the background images. Grey was used with opacity in the text overlays present in all of the pages. White was used for plain text. 
 
@@ -237,7 +237,6 @@ All the images used in the website were taken directly from Unsplash.com, includ
 All the icons were taken from "Font Awesome".
 
 ### Content
-
  <a name="content"></a>
 
 For this project, the following sources of information were used:

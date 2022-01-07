@@ -13,9 +13,47 @@ The link to the Github repository can be found [here.](https://github.com/Franci
 
 ![mockup site generator image](/assets/images/mockup.png "mockup preview")
 
-## User Experience
+## Table of Contents 
 
-**User requirements**
+[User Experience](#userexperience)
+
+   - [User Requirements](#userrequirements)
+   - [User Stories](#userstories)
+
+[Design](#design)   
+
+   - [Images](#images)
+   - [Colour Schemes](#colourschemes)
+   - [Fonts](#fonts)
+
+[Features](#features)   
+
+   - [Logo](#logo)
+   - [Navigation Menu](#navigationmenu)
+   - [Page Image](#pageimage) 
+   - [Statement Section](#statementsection)
+   - [Selling Points Section](#sellingpointssection)
+   - [Footer](#footer)  
+   - [How To Play Page](#howtoplaypage)
+   - [Sign Up Page](#signuppage)
+
+[Testing](#testing)   
+
+   - [General Testing](#generaltesting)
+   - [Validator Testing](#validatortesting)
+   - [Responsiveness Testing](#responsivenesstesting)
+
+[Site Deployment](#sitedeployment) 
+
+[Credits](#credits)   
+
+   - [Media](#media)
+   - [Content](#content)
+  
+
+## User Experience <a name="userexperience"></a>
+
+**User Requirements**
 
 - The website should be easy to navigate
 - All useful information about the game should be on display
@@ -26,7 +64,7 @@ The link to the Github repository can be found [here.](https://github.com/Franci
 - The website should adapt to different screen sizes on different devices
 
 
-**User stories**
+**User Stories**
 
 - I want the website to visually transmit the idea of the game 
 - I want the text to be clean legible
@@ -48,38 +86,39 @@ Apart from background images, the main colours used were chocolate rgb(210,105,3
 Tittillium Web is used for the headings due to its visual appeal. The rest of the text is in Lato, a font that improves readability.
 
 
-## Features
+## Features  
+<a name="features"></a>
 
 ------
 
--Logo
+**Logo**
   
 The top of the page includes the logo for The Arena that is present in all of the pages. This is meant to work as a constant reminder of the name of the game for those who are yet unfamiliar with it.
 
 ![logo image](/assets/images/logo.png "logo")
 
 
--Navigation Menu 
+**Navigation Menu** 
 
 The navigation menu consists of links to all of the website's pages (home, how to play and sign up). It is a feature in every single one of them, to make navigation easy and intuitive, thus promoting a good user experience.
 
 ![navigation bar image](/assets/images/navbar.png "navbar")
 
 
--Page Image
+**Page Image**
 
 This image takes center stage in all the pages to entice potential players, while making the website maintain a clean look. It speaks of the type of game The Arena is, and contains the motto for the game, "100 players walk in. Only one walks out." There's also a call to action in the form of a pre-order message that links to the sign up page.
 
 ![arena image](/assets/images/headstatement.png "arena image")
 
--Statement Section
+**Statement Section**
 
 This section is a short one. It contains text that supports the image above, briefly explaining what the genre of the game is. It also immediately states that the gameplay in The Arena differs form other battle royale games, as a way to grab the attention of potential players.
 
 ![arena statement](/assets/images/statement.png "arena statement")
 
 
--Selling Points Section
+**Selling Points Section**
 
 The selling points section contains more detailed information about the main features of The Arena. It is comprised of short blocks of text spread out across the page. The main objective is to give potential players a better picture of what the game is. 
 
@@ -88,7 +127,7 @@ The section contains four blocks of text, two of which float left, with the rema
 ![selling points section top](/assets/images/sellingpointsone.png "selling points")
 ![selling points section bottom](/assets/images/sellingpointstwo.png "selling points bottom")
 
--Footer
+**Footer**
 
 This is where users can find all the social media links, as well as The Arena's official Twitch channel and email. The six icons appear in one row in white to a chocolate colour background, and become opaque when the user hovers over them. Finally, there are aria labels in all of the links for screen readers. 
 
@@ -96,7 +135,7 @@ All the icons were taken from "Font Awesome".
 
 ![footer section](/assets/images/footer.png "footer")
 
--How to Play page
+**How to Play page**
 
 For players who are not very familiar with the Battle Royale genre, the how to play page provides a list of five steps to make sense of how the game works. Stylewise, it retains the colour scheme and some of the styling of the home page.
 
@@ -104,7 +143,7 @@ For players who are not very familiar with the Battle Royale genre, the how to p
 ![how to play bottom](/assets/images/instructionstwo.png "how to play bottom")
 
 
--Sign Up Page
+**Sign Up Page**
 
 For potential players who want to play the game, or just receive updates about it via email. Apart from all the usual fields such as username and password, there is also a dropdown list that gives users three options to sign up. 
 
@@ -113,6 +152,8 @@ For potential players who want to play the game, or just receive updates about i
 ## Testing
 
 ------
+
+**General Testing**
 
 Lighthouse was used to test Performance, Accessibility, Best Practices and SEO. The results were the following:
 

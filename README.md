@@ -72,15 +72,27 @@ For potential players who want to play the game, or just receive updates about i
 
 Lighthouse was used to test Performance, Accessibility, Best Practices and SEO. The results were the following:
 
-![lighthouse test](/assets/images/lighthouse "lighthouse test")
+![lighthouse test](/assets/images/lighthouse.png "lighthouse test")
 
 The colors and fonts are very easy to read all across the website.
 
 **Validator Testing**
 
-HTML-No errors were shown when put through the <a href="http://jigsaw.w3.org/css-validator/validator$link" target="_blank">validator.w3.org/ test. </a>
+HTML- No errors were shown when put through the [HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffranciscobarreira.github.io%2FHTML-CSS-Project%2Findex.html)
 
-CSS- No errors were shown when put through the <a href="http://jigsaw.w3.org/css-validator/validator$link" target="_blank">jigsaw.w3.org validator test. </a>
+CSS- No errors were shown when put through the [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffranciscobarreira.github.io%2FHTML-CSS-Project%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+**Responsiveness Testing**
+
+The website responsiveness was tested using Chrome Dev Tools and was physically tested on a Samsung S20. It generally responded well to the different devices, however, there was a need to implement some changes, such as:
+
+-Reducing the Logo font size to keep it from overflowing into the navigation bar
+
+-Increasing the Statement Height to keep text from spilling over
+
+-Decreasing the width of the form to fot smaller devices
+
+-In the selling points section of the website, there are four blocks of text, with two of them floating left and the other two floating right. In smaller screens, they form a column instead, with the four of them appearing below one another. 
 
 
 

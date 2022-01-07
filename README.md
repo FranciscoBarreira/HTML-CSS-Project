@@ -21,7 +21,7 @@ The top of the page includes the logo for The Arena that is present in all of th
 
 -Navigation Menu 
 
-The navigation menu consists of links to all of the website's pages. It is a feature in every single one of them, to make navigation easy and intuitive, thus promoting a good user experience.
+The navigation menu consists of links to all of the website's pages (home, how to play and sign up). It is a feature in every single one of them, to make navigation easy and intuitive, thus promoting a good user experience.
 
 ![navigation bar image](/assets/images/navbar.png "navbar")
 
@@ -43,18 +43,22 @@ This section is a short one. It contains text that supports the image above, bri
 
 The selling points section contains more detailed information about the main features of The Arena. It is comprised of short blocks of text spread out across the page. The main objective is to give potential players a better picture of what the game is. 
 
+The section contains four blocks of text, two of which float left, with the remaining two floating right. This styling option makes for a cleaner section, in which there is never too much information clustered in one place. 
+
 ![selling points section top](/assets/images/sellingpointsone.png "selling points")
 ![selling points section bottom](/assets/images/sellingpointstwo.png "selling points bottom")
 
 -Footer
 
-This is where users can find all the social media links, as well as The Arena's official Twitch channel and email, which will be the primary form of customer support. 
+This is where users can find all the social media links, as well as The Arena's official Twitch channel and email. The six icons appear in one row in white to a chocolate colour background, and become opaque when the user hovers over them. Finally, there are aria labels in all of the links for screen readers. 
+
+All the icons were taken from "Font Awesome".
 
 ![footer section](/assets/images/footer.png "footer")
 
 -How to Play page
 
-For players who are not very familiar with the Battle Royale genre, the how to play page provides a list of steps to make sense of how the game works. Stylewise, It is very identical to the home page to keep the branding consistant. The only differences are in the short message in the statement section and the main text. 
+For players who are not very familiar with the Battle Royale genre, the how to play page provides a list of five steps to make sense of how the game works. Stylewise, it retains the colour scheme and some of the styling of the home page.
 
 ![how to play top](/assets/images/instructionsone.png "how to play")
 ![how to play bottom](/assets/images/instructionstwo.png "how to play bottom")

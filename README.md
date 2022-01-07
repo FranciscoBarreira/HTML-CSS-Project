@@ -15,49 +15,51 @@ The link to the Github repository can be found [here.](https://github.com/Franci
 
 ## Table of Contents 
 
-[User Experience](#userexperience)
+[User Experience](#user-experience)
 
-   - [User Requirements](#userrequirements)
-   - [User Stories](#userstories)
+   - [User Requirements](#user-requirements)
+   - [User Stories](#user-stories)
 
 [Design](#design)   
 
    - [Images](#images)
-   - [Colour Schemes](#colourschemes)
+   - [Colour Schemes](#colour-schemes)
    - [Fonts](#fonts)
 
 [Features](#features)   
 
    - [Logo](#logo)
-   - [Navigation Menu](#navigationmenu)
-   - [Page Image](#pageimage) 
-   - [Statement Section](#statementsection)
-   - [Selling Points Section](#sellingpointssection)
+   - [Navigation Menu](#navigation-menu)
+   - [Page Image](#page-image) 
+   - [Statement Section](#statement-section)
+   - [Selling Points Section](#selling-points-section)
    - [Footer](#footer)  
-   - [How To Play Page](#howtoplaypage)
-   - [Sign Up Page](#signuppage)
+   - [How To Play Page](#how-to-play-page)
+   - [Sign Up Page](#sign-up-page)
 
 [Testing](#testing)   
 
-   - [General Testing](#generaltesting)
-   - [Validator Testing](#validatortesting)
-   - [Responsiveness Testing](#responsivenesstesting)
+   - [General Testing](#general-testing)
+   - [Validator Testing](#validator-testing)
+   - [Responsiveness Testing](#responsiveness-testing)
 
-[Site Deployment](#sitedeployment) 
+[Site Deployment](#site-deployment) 
 
 [Credits](#credits)   
 
    - [Media](#media)
-   - [Content](#content)
+   - [Content](#content) 
   
 
 
-##  User Experience 
-<a name="userexperience"></a>
+## User Experience 
+<a name="user-experience"></a>
 
 ------
 
-**User Requirements** <a name="userrequirements"></a>
+
+### User Requirements 
+<a name="user-requirements"></a>
 
 - The website should be easy to navigate
 - All useful information about the game should be on display
@@ -68,7 +70,8 @@ The link to the Github repository can be found [here.](https://github.com/Franci
 - The website should adapt to different screen sizes on different devices
 
 
-**User Stories** <a name="userstories"></a>
+### User Stories
+ <a name="user-stories"></a>
 
 - I want the website to visually transmit the idea of the game 
 - I want the text to be clean legible
@@ -80,18 +83,18 @@ The link to the Github repository can be found [here.](https://github.com/Franci
 
  ------
 
-**Images** 
+### Images 
 <a name="images"></a>
 
 
 All the images resemble the the first person shooter genre, while respecting the colour scheme of the website. They were taken from unsplash.com
 
-**Colour Scheme** 
-<a name="colourscheme"></a>
+### Colour Scheme 
+<a name="colours-cheme"></a>
 
 Apart from background images, the main colours used were chocolate rgb(210,105,30), white rgb(255,255,255) and grey rgb(102,101,101). The chocolate was mostly used as a background color to contrast the white text and the background images. Grey was used with opacity in the text overlays present in all of the pages. White was used for plain text. 
 
-**Fonts** 
+### Fonts 
 <a name="fonts"></a>
 
 Tittillium Web is used for the headings due to its visual appeal. The rest of the text is in Lato, a font that improves readability.
@@ -101,7 +104,7 @@ Tittillium Web is used for the headings due to its visual appeal. The rest of th
 <a name="features"></a>
 ------
 
-**Logo**
+### Logo
 <a name="logo"></a>
   
 The top of the page includes the logo for The Arena that is present in all of the pages. This is meant to work as a constant reminder of the name of the game for those who are yet unfamiliar with it.
@@ -109,31 +112,31 @@ The top of the page includes the logo for The Arena that is present in all of th
 ![logo image](/assets/images/logo.png "logo")
 
 
-**Navigation Menu** 
-<a name="navigationmenu"></a>
+### Navigation Menu 
+<a name="navigation-menu"></a>
 
 The navigation menu consists of links to all of the website's pages (home, how to play and sign up). It is a feature in every single one of them, to make navigation easy and intuitive, thus promoting a good user experience.
 
 ![navigation bar image](/assets/images/navbar.png "navbar")
 
 
-**Page Image**
-<a name="pageimage"></a>
+### Page Image
+<a name="page-image"></a>
 
 This image takes center stage in all the pages to entice potential players, while making the website maintain a clean look. It speaks of the type of game The Arena is, and contains the motto for the game, "100 players walk in. Only one walks out." There's also a call to action in the form of a pre-order message that links to the sign up page.
 
 ![arena image](/assets/images/headstatement.png "arena image")
 
-**Statement Section**
-<a name="statementsection"></a>
+### Statement Section
+<a name="statement-section"></a>
 
 This section is a short one. It contains text that supports the image above, briefly explaining what the genre of the game is. It also immediately states that the gameplay in The Arena differs form other battle royale games, as a way to grab the attention of potential players.
 
 ![arena statement](/assets/images/statement.png "arena statement")
 
 
-**Selling Points Section**
-<a name="sellingpointssection"></a>
+### Selling Points Section
+<a name="selling-points-section"></a>
 
 The selling points section contains more detailed information about the main features of The Arena. It is comprised of short blocks of text spread out across the page. The main objective is to give potential players a better picture of what the game is. 
 
@@ -142,7 +145,7 @@ The section contains four blocks of text, two of which float left, with the rema
 ![selling points section top](/assets/images/sellingpointsone.png "selling points")
 ![selling points section bottom](/assets/images/sellingpointstwo.png "selling points bottom")
 
-**Footer**
+### Footer
 <a name="footer"></a>
 
 This is where users can find all the social media links, as well as The Arena's official Twitch channel and email. The six icons appear in one row in white to a chocolate colour background, and become opaque when the user hovers over them. Finally, there are aria labels in all of the links for screen readers. 
@@ -151,8 +154,8 @@ All the icons were taken from "Font Awesome".
 
 ![footer section](/assets/images/footer.png "footer")
 
-**How to Play page**
-<a name="howtoplaypage"></a>
+### How to Play page
+<a name="how-to-play-page"></a>
 
 For players who are not very familiar with the Battle Royale genre, the how to play page provides a list of five steps to make sense of how the game works. Stylewise, it retains the colour scheme and some of the styling of the home page.
 
@@ -160,8 +163,8 @@ For players who are not very familiar with the Battle Royale genre, the how to p
 ![how to play bottom](/assets/images/instructionstwo.png "how to play bottom")
 
 
-**Sign Up Page**
-<a name="signuppage"></a>
+### Sign Up Page
+<a name="sign-up-page"></a>
 
 For potential players who want to play the game, or just receive updates about it via email. Apart from all the usual fields such as username and password, there is also a dropdown list that gives users three options to sign up. 
 
@@ -172,8 +175,8 @@ For potential players who want to play the game, or just receive updates about i
 
 ------
 
-**General Testing**
-<a name="generaltesting"></a>
+### General Testing
+<a name="general-testing"></a>
 
 Lighthouse was used to test Performance, Accessibility, Best Practices and SEO. The results were the following:
 
@@ -181,15 +184,15 @@ Lighthouse was used to test Performance, Accessibility, Best Practices and SEO. 
 
 The colors and fonts are very easy to read all across the website.
 
-**Validator Testing**
-<a name="validatortesting"></a>
+### Validator Testing
+<a name="validator-testing"></a>
 
 HTML- No errors were shown when put through the [HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffranciscobarreira.github.io%2FHTML-CSS-Project%2Findex.html)
 
 CSS- No errors were shown when put through the [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffranciscobarreira.github.io%2FHTML-CSS-Project%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-**Responsiveness Testing**
-<a name="responsivenesstesting"></a>
+### Responsiveness Testing
+<a name="responsiveness-testing"></a>
 
 The website responsiveness was tested using Chrome Dev Tools and was physically tested on a Samsung S20. It generally responded well to the different devices, however, there was a need to implement some changes, such as:
 
@@ -205,7 +208,7 @@ The website responsiveness was tested using Chrome Dev Tools and was physically 
 
 
 ## Site Deployment
-<a name="sitedeployment"></a>
+<a name="site-deployment"></a>
 
 ------
 
@@ -226,15 +229,16 @@ This site was deployed to GitHub pages. The steps to deploy it were:
 
 ------
 
-**Media**
+### Media
 <a name="media"></a>
 
 All the images used in the website were taken directly from Unsplash.com, including the one that is used as a background in the logo.
 
 All the icons were taken from "Font Awesome".
 
-**Content**
-<a name="content"></a>
+### Content
+
+ <a name="content"></a>
 
 For this project, the following sources of information were used:
 

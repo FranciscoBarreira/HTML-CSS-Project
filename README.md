@@ -13,6 +13,41 @@ The link to the Github repository can be found [here.](https://github.com/Franci
 
 ![mockup site generator image](/assets/images/mockup.png "mockup preview")
 
+## User Experience
+
+**User requirements**
+
+- The website should be easy to navigate
+- All useful information about the game should be on display
+- Signup should be accessible from any page
+- The website's visuals should be enticing 
+- It should be easy to understand what the game is
+- External links should be opened in a different window 
+- The website should adapt to different screen sizes on different devices
+
+
+**User stories**
+
+- I want the website to visually transmit the idea of the game 
+- I want the text to be clean legible
+- I want to know the main features of the game
+- I want a way to start playing the game immediately
+
+## Design
+
+**Images**
+
+All the images resemble the the first person shooter genre, while respecting the colour scheme of the website. They were taken from unsplash.com
+
+**Colour Scheme**
+
+Apart from background images, the main colours used were chocolate rgb(210,105,30), white rgb(255,255,255) and grey rgb(102,101,101). The chocolate was mostly used as a background color to contrast the white text and the background images. Grey was used with opacity in the text overlays present in all of the pages. White was used for plain text. 
+
+**Fonts**
+
+Tittillium Web is used for the headings due to its visual appeal. The rest of the text is in Lato, a font that improves readability.
+
+
 ## Features
 
 ------

@@ -1,10 +1,15 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+
 
 ## The Arena
 
 ------
 
 The Arena is a first person shooter battle royale type videogame that has 100 players fighting each other for victory. This website is meant to be a support for the game, with information and features that aim to convince both casual and hardcore gamers to try it out. It displays the game's main features and instructions on how to play, as well as a sign up page.
+
+The link to the deployed website can be found [here.](https://franciscobarreira.github.io/HTML-CSS-Project/)
+
+The link to the Github repository can be found [here.](https://github.com/FranciscoBarreira/HTML-CSS-Project/)
+
 
 ![mockup site generator image](/assets/images/mockup.png "mockup preview")
 
@@ -133,6 +138,6 @@ For this project, the following sources of information were used:
 
 -Stackoverflow for how to create an HTML button that acts like a link
 
--The idea for the text overlay used in bot the home and how to play pages was taken from the Love Running walkthrough project.
+-The idea for the text overlay used in both the home and how to play pages was taken from the Love Running walkthrough project.
 
 
